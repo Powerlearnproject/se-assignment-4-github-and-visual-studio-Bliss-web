@@ -525,7 +525,9 @@ GitHub and Visual Studio together provide a powerful platform for collaborative 
 6. Visual Studio’s Team Explorer allows developers to stage, commit, and push changes to GitHub without leaving the IDE.
 
 
-
+REFERENCE
+PLP MODULES ON SOFTWARE ENGINEERING
+CHATGPT
 
 
 
